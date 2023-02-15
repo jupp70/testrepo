@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>10.0</version>
+	<lang>C++</lang>
+	<BuildNo>9831403</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a8b5a52f-2b07-429b-be56-c66f4d2785af</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CarDoor_V</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">L03_VirtualSystemPackage</_hname>
+							<_hid type="a">GUID 1ac3d5b4-68fd-4abe-b7e8-d4f0abdaf8b6</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_defaultComposite type="s">GUID 7b52c178-c858-4687-88fc-65e022b40844</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 8f06f1f7-7e7f-4b49-8514-abd7943e75e9</value>
+				<value>GUID 99184365-2601-4110-8bdf-4ddcbe7429d9</value>
+				<value>GUID 53c48959-9a10-4f51-a1c0-5884bf1dedac</value>
+				<value>GUID d6285679-6da8-4fe1-89d5-d4da723834f7</value>
+				<value>GUID 7b52c178-c858-4687-88fc-65e022b40844</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ITag type="e">
+			<_id type="a">GUID 8f06f1f7-7e7f-4b49-8514-abd7943e75e9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectArea</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 37dafa38-7967-4346-a772-3a0b285b9e83</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 37dafa38-7967-4346-a772-3a0b285b9e83</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management)</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 99184365-2601-4110-8bdf-4ddcbe7429d9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectStream</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID fec681f8-96ab-4ee8-a8d2-1b675b0372ca</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID fec681f8-96ab-4ee8-a8d2-1b675b0372ca</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management) Main Stream</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 53c48959-9a10-4f51-a1c0-5884bf1dedac</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectName</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID e9f2cd67-7adf-43d8-8298-30da46bb5d7c</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID e9f2cd67-7adf-43d8-8298-30da46bb5d7c</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">DoorModel</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID d6285679-6da8-4fe1-89d5-d4da723834f7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CarDoor_V</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">VirtualObjectType</_hname>
+							<_hid type="a">GUID 38299289-0e04-43c5-a2a6-ba4fa86c5974</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\CarDoor_TS.sbsx</_hfilename>
+					<_hsubsystem type="a">CarDoor_TS</_hsubsystem>
+					<_hname type="a">Overview</_hname>
+					<_hid type="a">GUID 4d8364e6-93dc-4b62-8d83-479b710de450</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 7b52c178-c858-4687-88fc-65e022b40844</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

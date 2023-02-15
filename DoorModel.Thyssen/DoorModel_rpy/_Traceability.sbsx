@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>10.0</version>
+	<lang>C++</lang>
+	<BuildNo>9831403</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID f77b7b4e-61ea-4d45-b129-c476203eb5f3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">_Traceability</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_defaultComposite type="s">GUID 13c1f819-2305-484d-a280-e6ec404c8453</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID fc5cf312-d2b6-4203-add9-177540c27b86</value>
+				<value>GUID c0000a84-4be0-4fb4-8807-eadd2ad3c305</value>
+				<value>GUID 89df47fe-c445-4aea-8aee-6ceb7fe5f9e9</value>
+				<value>GUID 13c1f819-2305-484d-a280-e6ec404c8453</value>
+				<value>GUID 3ee3f562-ccaa-4eaf-911e-7e3cfe7e862a</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ITag type="e">
+			<_id type="a">GUID fc5cf312-d2b6-4203-add9-177540c27b86</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectArea</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID e7ae27b7-d792-4441-83a1-73837caaa611</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID e7ae27b7-d792-4441-83a1-73837caaa611</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management)</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID c0000a84-4be0-4fb4-8807-eadd2ad3c305</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectStream</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 04fcd00b-0227-4781-83bc-2cf09d64d3d4</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 04fcd00b-0227-4781-83bc-2cf09d64d3d4</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management) Main Stream</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 89df47fe-c445-4aea-8aee-6ceb7fe5f9e9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectName</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID efb566ac-25af-4922-9341-8f2a2fcc2d63</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID efb566ac-25af-4922-9341-8f2a2fcc2d63</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">DoorModel</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 13c1f819-2305-484d-a280-e6ec404c8453</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID 3ee3f562-ccaa-4eaf-911e-7e3cfe7e862a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ConceptualObjectOfDoor</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\ConceptWorldProfileThyssenkrupp\ConceptStructure.sbsx</_hfilename>
+					<_hsubsystem type="a">ConceptWorldProfileThyssenkrupp::ConceptStructure</_hsubsystem>
+					<_hname type="a">ListOfConceptObjectsLayout</_hname>
+					<_hid type="a">GUID c6f94321-0eb9-4b3e-be34-6c2b1c3ea05a</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">2</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Door_ConceptualBB.sbsx</_hfilename>
+							<_hname type="a">Door_ConceptualBB</_hname>
+							<_hid type="a">GUID c9342e48-38a4-4ab3-b4c3-3af3781eefeb</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\_References.sbsx</_hfilename>
+							<_hname type="a">_References</_hname>
+							<_hid type="a">GUID 0937df03-5c16-473e-a2f2-593fa0422704</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

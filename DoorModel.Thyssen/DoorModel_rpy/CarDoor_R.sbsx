@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>10.0</version>
+	<lang>C++</lang>
+	<BuildNo>9831403</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 3027524a-b5db-45e0-a12c-82a6b71db3f8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CarDoor_R</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">L03_RealSystemPackage</_hname>
+							<_hid type="a">GUID 142cebaf-70fd-488a-b470-cb02605a69ee</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::10:19:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:19:5</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.14.2020::10:19:5</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_defaultComposite type="s">GUID 4d97e094-fbb4-486f-9fd1-1bbc6d5c1659</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID eadb1231-b6f7-49f3-9cf0-9cbc72179bee</value>
+				<value>GUID 775a8c4b-92f2-49d7-9ded-e25f746bdedd</value>
+				<value>GUID 307287f9-f42c-4863-8671-84340a72c944</value>
+				<value>GUID 915f23d0-fa7f-4213-aff0-c1983485fbff</value>
+				<value>GUID fa9c8119-3197-4788-a88d-435f52782c09</value>
+				<value>GUID 4d97e094-fbb4-486f-9fd1-1bbc6d5c1659</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ITag type="e">
+			<_id type="a">GUID eadb1231-b6f7-49f3-9cf0-9cbc72179bee</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectArea</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 2f2887de-9c69-49b4-b46a-32d98f731e69</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 2f2887de-9c69-49b4-b46a-32d98f731e69</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management)</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 775a8c4b-92f2-49d7-9ded-e25f746bdedd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectStream</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 8226f491-cfd6-498f-8062-436294c68cbb</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 8226f491-cfd6-498f-8062-436294c68cbb</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">001_MUL1 (Design Management) Main Stream</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 307287f9-f42c-4863-8671-84340a72c944</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DMProjectName</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID a6604cba-38eb-40e3-a73c-c892ea164ad5</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID a6604cba-38eb-40e3-a73c-c892ea164ad5</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">DoorModel</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 915f23d0-fa7f-4213-aff0-c1983485fbff</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CarDoor_R</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">RealObjectType</_hname>
+							<_hid type="a">GUID 71958585-d214-4a01-be30-a674df69338c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:23</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\CarDoor_TS.sbsx</_hfilename>
+					<_hsubsystem type="a">CarDoor_TS</_hsubsystem>
+					<_hname type="a">Overview</_hname>
+					<_hid type="a">GUID 4d8364e6-93dc-4b62-8d83-479b710de450</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">2.14.2020::10:21:23</_modifiedTime>
+			<_lastID type="a">27</_lastID>
+			<weakCGTime type="a">2.14.2020::10:21:23</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<Associations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Associations>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID e3c3287e-ca6f-48fd-91e1-176c479e8f7f</value>
+				<value>GUID 13a27103-045a-41b3-b0e5-6e035cd642a5</value>
+				<value>GUID 9e34fcb7-b600-4968-a130-576ff03f1d04</value>
+				<value>GUID b37aef09-ea17-4228-9cc2-8bcff8bfb71e</value>
+				<value>GUID f4b2c81c-1f6f-43c6-9131-2d8961c0e7f8</value>
+				<value>GUID d9b9a196-10fa-43fd-89b5-2ce99cee1cc7</value>
+				<value>GUID d02e26dc-7140-4af0-94e4-3c9829140837</value>
+				<value>GUID ed483f52-592c-42f4-9ac8-50929727e129</value>
+				<value>GUID 1772b36a-df33-4c2c-8321-6143a09b249a</value>
+				<value>GUID f12aa00b-7bdd-47bd-9774-9168011cca01</value>
+				<value>GUID c6f6e0e6-ca21-42ac-b651-21558f91508f</value>
+			</AggregatesList>
+		</IClass>
+		<IConstraint type="e">
+			<_id type="a">GUID e3c3287e-ca6f-48fd-91e1-176c479e8f7f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">weight</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::10:20:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:20:10</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 weight &lt;= 60 kg\par%0D
+}%0D
+</_body>
+		</IConstraint>
+		<IPort type="e">
+			<_id type="a">GUID 13a27103-045a-41b3-b0e5-6e035cd642a5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Comms</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">ElectricalData</_hname>
+							<_hid type="a">GUID 8a613113-8103-4ffb-80db-a3130a9eea7c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::10:20:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:20:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID f51a4ff9-01d5-4f35-b011-7f35475a35d0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID f51a4ff9-01d5-4f35-b011-7f35475a35d0</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">Comms_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.14.2020::10:20:18</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.14.2020::10:20:18</_modifiedTime>
+				<weakCGTime type="a">2.14.2020::10:20:18</weakCGTime>
+				<strongCGTime type="a">2.14.2020::10:20:18</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPort type="e">
+			<_id type="a">GUID 9e34fcb7-b600-4968-a130-576ff03f1d04</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerSupplyDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">ElectricalEnergy</_hname>
+							<_hid type="a">GUID 48b16b16-cd94-4443-a070-2e5fc59f3ef9</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Wide Range DC Power Supply 24 V (emergency battery) to 48 V (normal operation)</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b7c5c707-5790-4212-b652-8ad9e18783bf</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID b7c5c707-5790-4212-b652-8ad9e18783bf</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">PowerSupplyDC_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+				<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+				<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPort type="e">
+			<_id type="a">GUID b37aef09-ea17-4228-9cc2-8bcff8bfb71e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerSupplyAC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">ElectricalEnergy</_hname>
+							<_hid type="a">GUID 48b16b16-cd94-4443-a070-2e5fc59f3ef9</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ced18c3e-8da2-41d6-8e5c-fdde0bfeccc9</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID ced18c3e-8da2-41d6-8e5c-fdde0bfeccc9</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">PowerSupplyAC_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+				<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+				<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPort type="e">
+			<_id type="a">GUID f4b2c81c-1f6f-43c6-9131-2d8961c0e7f8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Coupling</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">ElectricalData</_hname>
+							<_hid type="a">GUID 8a613113-8103-4ffb-80db-a3130a9eea7c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::10:20:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:20:28</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b516c67d-c6d9-473a-a57b-540fd41b0c5c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID b516c67d-c6d9-473a-a57b-540fd41b0c5c</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">Coupling_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.14.2020::10:20:28</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.14.2020::10:20:28</_modifiedTime>
+				<weakCGTime type="a">2.14.2020::10:20:28</weakCGTime>
+				<strongCGTime type="a">2.14.2020::10:20:28</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPort type="e">
+			<_id type="a">GUID d9b9a196-10fa-43fd-89b5-2ce99cee1cc7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SillFixation</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\TechnicalDesignWorldProfileThyssenkrupp.sbsx</_hfilename>
+							<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp</_hsubsystem>
+							<_hname type="a">RigidJoint</_hname>
+							<_hid type="a">GUID 0c49de68-47f4-4a17-a1cd-729883dc43d2</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 30c7ea0b-d2aa-4f7e-81c2-645be575bcdf</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID 30c7ea0b-d2aa-4f7e-81c2-645be575bcdf</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">SillFixation_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+				<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+				<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IAttribute type="e">
+			<_id type="a">GUID d02e26dc-7140-4af0-94e4-3c9829140837</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">AllocatedEnvelope</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:11</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\Types.sbsx</_hfilename>
+					<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp::Types</_hsubsystem>
+					<_hname type="a">File</_hname>
+					<_hid type="a">GUID 74658c93-cbd4-4135-b9b5-7940e869a53b</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID afe41bde-71f7-4c85-b035-2c8337f7a403</value>
+			</AggregatesList>
+		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID afe41bde-71f7-4c85-b035-2c8337f7a403</_id>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:11</_modifiedTime>
+			<_value type="a">dertzrtz</_value>
+		</ILiteralSpecification>
+		<IAttribute type="e">
+			<_id type="a">GUID ed483f52-592c-42f4-9ac8-50929727e129</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">weight</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:13</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\Types.sbsx</_hfilename>
+					<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp::Types</_hsubsystem>
+					<_hname type="a">kg</_hname>
+					<_hid type="a">GUID 6357c049-13e4-4a88-937f-ddeff9ad7fc0</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID c44553b9-795f-4613-b8eb-cea048faf8fc</value>
+			</AggregatesList>
+		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID c44553b9-795f-4613-b8eb-cea048faf8fc</_id>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:13</_modifiedTime>
+			<_value type="a">55</_value>
+		</ILiteralSpecification>
+		<IAttribute type="e">
+			<_id type="a">GUID 1772b36a-df33-4c2c-8321-6143a09b249a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">cost</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:18</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\Types.sbsx</_hfilename>
+					<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp::Types</_hsubsystem>
+					<_hname type="a">EUR</_hname>
+					<_hid type="a">GUID fc3cf7c9-0bd9-46ea-a4f2-71e6fa4f1403</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID e7dec882-9b43-495d-88b1-3ea2d1afa8e0</value>
+			</AggregatesList>
+		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID e7dec882-9b43-495d-88b1-3ea2d1afa8e0</_id>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:18</_modifiedTime>
+			<_value type="a">100</_value>
+		</ILiteralSpecification>
+		<IAttribute type="e">
+			<_id type="a">GUID f12aa00b-7bdd-47bd-9774-9168011cca01</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ePowerConsumption</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:23</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\Types.sbsx</_hfilename>
+					<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp::Types</_hsubsystem>
+					<_hname type="a">W</_hname>
+					<_hid type="a">GUID 1d8ae360-1098-48f3-8b84-c0dc04730e54</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 1798a921-a482-40e0-9b8b-dee475135ae7</value>
+			</AggregatesList>
+		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 1798a921-a482-40e0-9b8b-dee475135ae7</_id>
+			<_modifiedTimeWeak type="a">2.14.2020::10:21:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::10:21:23</_modifiedTime>
+			<_value type="a">23</_value>
+		</ILiteralSpecification>
+		<IAttribute type="e">
+			<_id type="a">GUID c6f6e0e6-ca21-42ac-b651-21558f91508f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MTTF</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\Profiles\TechnicalDesignProfileThyssenkruppd\TechnicalDesignThyssenkruppWorld_rpy\Types.sbsx</_hfilename>
+					<_hsubsystem type="a">TechnicalDesignWorldProfileThyssenkrupp::Types</_hsubsystem>
+					<_hname type="a">h</_hname>
+					<_hid type="a">GUID d4be2692-4e63-479b-bded-40da4e7d981f</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IClass type="e">
+			<_id type="a">GUID fa9c8119-3197-4788-a88d-435f52782c09</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">Interface_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">Interface</_hname>
+							<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 4d97e094-fbb4-486f-9fd1-1bbc6d5c1659</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.21.2020::9:50:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2020::9:50:50</_modifiedTime>
+			<weakCGTime type="a">1.21.2020::9:50:50</weakCGTime>
+			<strongCGTime type="a">1.21.2020::9:50:50</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
